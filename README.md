@@ -1,7 +1,7 @@
 ### mdex-chap-count
 ##### Counts unread chapters translated in English in Mangadex
 
-Mangadex provides excellent [API](https://api.mangadex.org/docs) for using it with different clients beside the beautiful Mangadex website. But, sometimes one may have been not reading manga in Mangadex for a long time. If they want to have a count of how many unread chapters for each manga in their follow list have piled up, look no further! 
+Mangadex provides excellent [API](https://api.mangadex.org/docs) for using it with different clients beside the beautiful Mangadex website. It has got many functionalities. But, sometimes one may have been not reading manga in Mangadex for a long time. If they want to have a count of how many unread chapters for each manga in their follow list have piled up, they need to look no further! 
 
 In this python script, using Mangadex [personal API token](https://api.mangadex.org/docs/02-authentication/personal-clients/), one can do the counting of all unread chapters, both for each manga and in total. 
 - First we activate the API token/refresh it.
