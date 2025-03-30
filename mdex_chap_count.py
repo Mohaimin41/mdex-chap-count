@@ -3,17 +3,17 @@ import json
 from time import sleep
 
 creds = {
-'''
-first time activating the api client and getting access & refresh token
-'''
+
+    # first time activating the api client and getting access & refresh token
+
     "grant_type": "password",
     "username": "<username>",
     "password": "<password>",
     "client_id": "<client_id>",
     "client_secret": "<client_secret>"
-'''
-access token using refresh token part
-'''
+
+    #access token using refresh token part
+
     # "grant_type": "refresh_token",
     # "refresh_token": "<refresh_token>",
     # "client_id": "<client_id>",
